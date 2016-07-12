@@ -10,7 +10,7 @@ identify Apis(Honey bee) or Bombus(Bumble bee). This will be my first foray into
 **Motivation:** Being such important pollinators and the source of honey, it's important to help protect the dwindling population of bees in anyway we can.
 
 
-Ultimately was able to correctly discern an image with 69.95% accuracy. 
+Ultimately was able to correctly discern honey or bumblebee with 69.95% accuracy. 
 _________________
 
 ##Tools
